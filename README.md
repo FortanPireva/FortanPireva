@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://fortanpireva.com"><img src="https://img.shields.io/badge/Website-fortanpireva.com-6366f1?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/fortan-pireva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fortan-pireva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/fortanpireva"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="mailto:fortanpireva99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
