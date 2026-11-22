@@ -1,77 +1,141 @@
-# Hi there, I'm Fortan Pireva 👋
+<div align="center">
 
-## Full Stack Engineer | Backend Specialist | Founder @ Codeks
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Fortan%20Pireva&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Founder%20%40%20Codeks%20%C2%B7%20I%20ship%20products%2C%20not%20just%20code&descAlignY=60&descSize=16" width="100%" />
 
-I'm a dynamic full-stack engineer with 6+ years of experience building high-performance payment systems and innovative SaaS solutions. I specialize in delivering efficient, scalable applications that enhance user experiences and operational efficiency.
+<a href="https://fortanpireva.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Building+AI+agents+that+book+sales+calls+%F0%9F%A4%96;Full-stack+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Postgres;Idea+%E2%86%92+MVP+in+weeks%2C+not+months+%F0%9F%9A%80;Pristina+%F0%9F%87%BD%F0%9F%87%B0+%E2%86%94+remote%2C+worldwide" alt="Typing SVG" />
+</a>
 
-### 🚀 About Me
+<p>
+  <a href="https://fortanpireva.com"><img src="https://img.shields.io/badge/Website-fortanpireva.com-6366f1?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fortan-pireva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/fortanpireva"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:fortanpireva99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🏢 Currently working as **Senior Software Engineer** at [Codeks](https://codeks.dev)
-- 🎓 Master's degree from **Jacobs University** (2022-2024)
-- 🌍 Based in Pristina, Kosovo
-- 💼 Experience with pre-seed startups, solopreneurs, and enterprise clients
-- 🔧 Focused on building production-ready solutions from concept to launch
+</div>
 
-### 🛠️ Tech Stack
+---
 
-```javascript
-const skills = {
-  frontend: ['Next.js', 'React', 'React Native', 'Expo', 'TypeScript'],
-  backend: ['Node.js', 'NestJS', 'tRPC', 'gRPC'],
-  databases: ['Prisma ORM', 'PostgreSQL', 'Firebase'],
-  infrastructure: ['Kubernetes', 'Docker', 'Azure'],
-  other: ['API Integration', 'OCPP Protocol', 'Payment Gateways']
+### 👋 Hey, I'm Fortan
+
+I run **[Codeks](https://codeks.dev)**, a small studio that turns founders' ideas into production software, fast. 6+ years in, I've shipped payment systems, EV-charging platforms, marketplaces and a pile of AI products — usually from a blank repo to paying users.
+
+```ts
+const fortan = {
+  now:      "Building Salesling — an AI sales agent that finds prospects and books calls",
+  studio:   "Codeks — MVPs for startups in weeks",
+  based:    "Pristina, Kosovo 🇽🇰 (MSc, Jacobs University Bremen)",
+  speaks:   ["Albanian", "English", "German"],
+  offline:  ["🏋️ gym", "📚 always learning"],
+  askMeAbout: ["Next.js", "Postgres/Supabase", "LLM agents", "Stripe billing", "shipping fast"],
 };
 ```
 
-### 💼 Featured Projects
+### 🔨 What I'm building right now
 
-#### 🎯 [Codepilot](https://codepilot.dev)
-A software solution tailored for developers to launch their startups faster - reducing development time from months to weeks.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 📄 [ResumeMaster](https://resumemaster.net)
-AI-powered resume builder developed in Next.js and TypeScript. Built in less than two months with full end-to-end functionality.
+**🤖 [Salesling](https://salesling.com)**<br/>
+An AI sales agent: researches companies, writes grounded outreach, answers inbound leads and books meetings straight into your calendar.<br/>
+<sub>Next.js · Supabase · Claude · Stripe · Gmail/Calendar APIs</sub>
 
-#### ⚡ [CodeksCharge](https://codeks.net/charge/)
-White-label OCPP Charging Management System with cross-platform mobile app. Streamlines EV charging operations, station management, and business partner revenue operations.
+</td>
+<td width="50%" valign="top">
 
-#### 🎮 [Gamesense](https://gamesense.coach/)
-Interactive video-based quiz web app for sports clubs in the Netherlands, built with Next.js and tRPC.
+**🏗️ [Codeks](https://codeks.dev)**<br/>
+Product studio for founders. We take you from idea → launched MVP, and keep shipping after.<br/>
+<sub>Full-stack · Mobile · AI · Infra</sub>
 
-#### 🤝 [Provipanda](https://provipanda.de)
-Web & mobile marketplace connecting companies with remote, vetted German-speaking sales representatives. Built with Next.js and Expo (React Native).
+</td>
+</tr>
+</table>
 
-#### ⚽ [Scoutmate](https://scoutmate.app/)
-Enhanced player management flow for scouting processes with simplified match creation based on user feedback.
+### 🚢 Things I've shipped
 
-### 🏆 Career Highlights
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- **Codeks** (2024-Present): Building custom full-stack solutions for startups and entrepreneurs
-- **Enpal** (2023-2024): Improved portal responsiveness by 30% and integrated Azure B2C authentication for 100k+ users
-- **Metanoia GmBH** (2023-2024): Led Lucoyo platform development, achieving 25% increase in user engagement
-- **Guest Connect** (2022-2023): Developed SaaS platform with 40% reduction in API calls and 35% increase in reliability
-- **Gjirafa** (2021-2022): Migrated 10TB of video content within 1-week deadline, increased user retention by 40%
-- **Upwork Freelancer** (2019-2021): Delivered 15+ projects with 95% client satisfaction rate
+**⚡ [CodeksCharge](https://codeks.net/charge/)**<br/>
+<sub>White-label OCPP charging management system + cross-platform driver app for EV operators.</sub>
 
-### 📊 By The Numbers
+</td>
+<td width="33%" valign="top">
 
-- 🚀 Launched **multiple MVPs** from concept to production
-- 📈 Improved system performance by **30-50%** across various projects
-- ⚡ Reduced development time from **months to weeks**
-- 🎯 Achieved **95%+ client satisfaction** rate
-- 💾 Migrated **10TB+ of data** with minimal downtime
+**📄 [ResumeMaster](https://resumemaster.net)**<br/>
+<sub>AI resume builder — idea to launch in under two months.</sub>
 
-### 🌐 Connect With Me
+</td>
+<td width="33%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fortan-pireva)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FortanPireva)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://fortan-pireva.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fortanpireva99@gmail.com)
+**🤝 [Provipanda](https://provipanda.de)**<br/>
+<sub>Marketplace connecting companies with vetted, remote German-speaking sales reps. Web + Expo app.</sub>
 
-### 🗣️ Languages
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-- 🇬🇧 English (Fluent)
-- 🇩🇪 German (Conversational)
-- 🇦🇱 Albanian (Native)
+**🎮 [Gamesense](https://gamesense.coach/)**<br/>
+<sub>Video-based interactive quizzes for sports clubs in the Netherlands.</sub>
 
-💡 **Open to collaborations** on innovative projects, especially in AI, SaaS, and full-stack development. Let's build something amazing together!
+</td>
+<td valign="top">
+
+**⚽ [Scoutmate](https://scoutmate.app/)**<br/>
+<sub>Player scouting & match management for football scouts.</sub>
+
+</td>
+<td valign="top">
+
+**🧑‍💻 [Codepilot](https://codepilot.dev)**<br/>
+<sub>Starter kit that gets developers from zero to a launched SaaS in weeks.</sub>
+
+</td>
+</tr>
+</table>
+
+### 🧰 Toolbox
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,nestjs,postgres,supabase,prisma,python,docker,kubernetes,azure,vercel,tailwind&perline=7" />
+  </a>
+</p>
+
+<p align="center"><sub>+ React Native / Expo · tRPC · gRPC · Stripe · OCPP · LLM tooling (Claude, AI SDK, embeddings)</sub></p>
+
+### 📈 GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FortanPireva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FortanPireva&hide_border=true&theme=tokyonight" />
+</div>
+
+<details>
+<summary><b>🗂️ Where I've worked</b></summary>
+<br/>
+
+| When | Where | Highlight |
+|---|---|---|
+| 2024 → now | **Codeks** | Founder — building custom products for startups, now Salesling |
+| 2023 – 2024 | **Enpal** | Portal 30% more responsive; Azure B2C auth for 100k+ users |
+| 2023 – 2024 | **Metanoia GmbH** | Led Lucoyo platform development, +25% user engagement |
+| 2022 – 2023 | **Guest Connect** | SaaS platform: −40% API calls, +35% reliability |
+| 2021 – 2022 | **Gjirafa** | Migrated 10 TB of video in one week; +40% retention |
+| 2019 – 2021 | **Upwork** | 15+ freelance projects, 95% client satisfaction |
+
+</details>
+
+<div align="center">
+
+<br/>
+
+**Got an idea that should exist?** [Let's talk →](mailto:fortanpireva99@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" />
+
+</div>
