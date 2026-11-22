@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Fortan%20Pireva&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Founder%20%40%20Codeks%20%C2%B7%20I%20ship%20products%2C%20not%20just%20code&descAlignY=60&descSize=16" width="100%" />
 
 <a href="https://fortanpireva.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Building+AI+agents+that+book+sales+calls+%F0%9F%A4%96;Full-stack+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Postgres;Idea+%E2%86%92+MVP+in+weeks%2C+not+months+%F0%9F%9A%80;Pristina+%F0%9F%87%BD%F0%9F%87%B0+%E2%86%94+remote%2C+worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=AI+Lead+Engineer+%40+Genpact+%F0%9F%A4%96;Building+AI+agents+that+book+sales+calls;Full-stack+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Postgres;Idea+%E2%86%92+MVP+in+weeks%2C+not+months+%F0%9F%9A%80;Pristina+%F0%9F%87%BD%F0%9F%87%B0+%E2%86%94+remote%2C+worldwide" alt="Typing SVG" />
 </a>
 
 <p>
@@ -19,10 +19,11 @@
 
 ### 👋 Hey, I'm Fortan
 
-I run **[Codeks](https://codeks.dev)**, a small studio that turns founders' ideas into production software, fast. 6+ years in, I've shipped payment systems, EV-charging platforms, marketplaces and a pile of AI products — usually from a blank repo to paying users.
+I'm an **AI Lead Engineer at Genpact**, building multi-agent systems that automate enterprise procurement, and I run **[Codeks](https://codeks.dev)**, a small studio that turns founders' ideas into production software, fast. 6+ years in, I've shipped payment systems, EV-charging platforms, marketplaces and a pile of AI products — usually from a blank repo to paying users.
 
 ```ts
 const fortan = {
+  role:     "AI Lead Engineer @ Genpact — multi-agent systems with LangGraph",
   now:      "Building Salesling — an AI sales agent that finds prospects and books calls",
   studio:   "Codeks — MVPs for startups in weeks",
   based:    "Pristina, Kosovo 🇽🇰 (MSc, Jacobs University Bremen)",
@@ -121,6 +122,7 @@ Product studio for founders. We take you from idea → launched MVP, and keep sh
 
 | When | Where | Highlight |
 |---|---|---|
+| 2025 → now | **Genpact** | AI Lead Engineer — multi-agent LangGraph systems for procurement automation |
 | 2024 → now | **Codeks** | Founder — building custom products for startups, now Salesling |
 | 2023 – 2024 | **Enpal** | Portal 30% more responsive; Azure B2C auth for 100k+ users |
 | 2023 – 2024 | **Metanoia GmbH** | Led Lucoyo platform development, +25% user engagement |
